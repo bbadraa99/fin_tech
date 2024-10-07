@@ -9,6 +9,7 @@ In this task, I worked on a machine learning model that can classify the sentime
 git clone https://github.com/bbadraa99/Sentiment_analyzer.git
 ```
   - Open the web_service.zip file
+
 1.2 Move to the web_service directory 
 ```bash
 cd web_service
